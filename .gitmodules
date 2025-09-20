@@ -1,0 +1,9 @@
+[submodule "utils"]
+	path = utils
+	url = https://github.com/GrylaMC/gryla_utils.git
+[submodule "MCP_Archive"]
+	path = MCP_Archive
+	url = https://github.com/GrylaMC/MCP_Archive.git
+[submodule "protocol"]
+	path = protocol
+	url = https://github.com/GrylaMC/grula_protocol.git
